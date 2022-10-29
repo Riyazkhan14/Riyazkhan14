@@ -1,4 +1,4 @@
-:woman_technologist: About Me :
+:woman_technologist: <b> About Me : </b>
 - 👋 Hi, I’m Riyazuddin
 - 👀 I’m interested in Python | Data Science | Numpy | Pandas | Ansible | AWS Developer & Architecture | Kubernetes | Flask | RHE Linux 8 | CI/CD | Jenkins | GCP | Microsoft Azure
 - 🌱 I’m currently Sharping my DevOps Skills.
