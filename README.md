@@ -1,9 +1,9 @@
 :woman_technologist: <b> About Me : </b>
 - 👋 Hi, I’m Riyazuddin
 - 👀 I’m interested in Python | GoLang | Terraform | Ansible | AWS Developer & Architecture | Docker | Kubernetes | RHE Linux 8 | CI/CD | Jenkins | GCP | Microsoft Azure | Cloud
-- 🌱 I’m currently practicing DevOps Skills.
+- 🌱 I’m currently practicing DevOps Lead.
 - 💞️ I’m looking to collaborate on DevOps Work / Web Development.
-- 📫 All can reach me on linux.riyaz@gmail.com.
+- 📫 All can reach me on linux.riyaz@gmail.com, riyazuddin@live.com.
 
 <hr>
 
