@@ -59,15 +59,18 @@
 <div id="header" align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=riyazkhan14&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
 
-
-<div>
-
+<div id="header" align="center">
+[![Riyaz's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=riyazkhan14&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+</div>
+  
 <div id="header" align="center">  
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyazkhan14&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<div>  
+<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyazkhan14&hide_progress=true)
+</div>  
   
 <hr>
 
