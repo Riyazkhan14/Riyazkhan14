@@ -70,7 +70,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyazkhan14&stats_format=bytes)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyazkhan14&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyazkhan14&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 </div>  
   
