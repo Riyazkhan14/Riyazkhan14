@@ -60,11 +60,13 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-eta-orcin.vercel.app?user=Riyazkhan14)](https://git.io/streak-stats)
 
+
 [![Riyaz's GitHub stats-Dark](https://github-readme-streak-stats-eta-orcin.vercel.app/api?username=riyazkhan14&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 </div>
   
 <div id="header" align="center">  
-  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyazkhan14&stats_format=bytes)  
 [![Top Langs](https://github-readme-streak-stats-eta-orcin.vercel.app/api/top-langs/?username=riyazkhan14&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>  
