@@ -58,7 +58,7 @@
 :fire: <b>My Stats :</b>
 <div id="header" align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=riyazkhan14&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eta-orcin.vercel.app?user=Riyazkhan14)](https://git.io/streak-stats)
 
 [![Riyaz's GitHub stats-Dark](https://github-readme-stats-gold-three-56.vercel.app/api?username=riyazkhan14&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 </div>
