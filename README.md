@@ -65,13 +65,13 @@
 
 [![Riyaz's GitHub stats-Dark](https://github-readme-streak-stats-eta-orcin.vercel.app/api?username=riyazkhan14&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) --->
 
-[![Riyaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyazkhan14&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+<!---[![Riyaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyazkhan14&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyazkhan14&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)(https://github.com/anuraghazra/github-readme-stats)
 </div>
   
 <div id="header" align="center">  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyazkhan14&stats_format=bytes)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyazkhan14&stats_format=bytes)  -->
 
 </div>  
   
