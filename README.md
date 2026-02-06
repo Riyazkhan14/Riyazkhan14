@@ -66,6 +66,7 @@
 [![Riyaz's GitHub stats-Dark](https://github-readme-streak-stats-eta-orcin.vercel.app/api?username=riyazkhan14&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) --->
 
 [![Riyaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyazkhan14&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 </div>
   
 <div id="header" align="center">  
