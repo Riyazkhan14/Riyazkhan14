@@ -11,7 +11,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <br>
   <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/riyazkhan14/)">
+  <a href="[My LinkedIn Profile](https://www.linkedin.com/in/riyazkhan14/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <!--<a href="your-youtube-URL">
@@ -20,7 +20,7 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> --->
-  <a href="[your-github-username](https://github.com/Riyazkhan14)">
+  <a href="[My GitHub Profile](https://github.com/Riyazkhan14)">
     <br>
     <img src="https://komarev.com/ghpvc/?username=riyazkhan14&style=flat-square&color=blue" alt="Counter Bedge"/>
   </a>
@@ -65,7 +65,8 @@
 
 [![Riyaz's GitHub stats-Dark](https://github-readme-streak-stats-eta-orcin.vercel.app/api?username=riyazkhan14&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) --->
 
-[![Riyaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyazkhan14)](https://github.com/anuraghazra/github-readme-stats)
+[![Riyaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyazkhan14&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=riyazkhan14&hide=contribs,prs
 </div>
   
 <div id="header" align="center">  
